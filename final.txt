@@ -6,3 +6,5 @@ Book Five - Author Five - 17
 Book Six - Author Six - 18
 Book Seven - Author Seven - 19
 Book Eight - Author Eight - 20
+Book Nine - Author Nine - 21
+Book Ten - Author Ten - 22
