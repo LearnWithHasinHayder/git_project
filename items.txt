@@ -5,3 +5,4 @@ Book Four
 
 Book Five
 Book Six
+Book Seven
