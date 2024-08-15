@@ -8,3 +8,7 @@ Book Seven - Author Seven - 19
 Book Eight - Author Eight - 20
 Book Nine - Author Nine - 21
 Book Ten - Author Ten - 22
+
+Here are some new books
+New Book One
+New book two
