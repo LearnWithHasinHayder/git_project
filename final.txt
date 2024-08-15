@@ -5,3 +5,4 @@ Book Four - Author Four - 16
 Book Five - Author Five - 17
 Book Six - Author Six - 18
 Book Seven - Author Seven - 19
+Book Eight - Author Eight - 20
