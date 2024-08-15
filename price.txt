@@ -8,3 +8,6 @@ B6 - 17
 B7 - 18
 B8 - 19
 B9 - 20
+
+New Price 12
+New Price 1313423
